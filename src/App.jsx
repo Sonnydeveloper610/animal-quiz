@@ -124,7 +124,7 @@ function App() {
             title="이미지를 클릭하면 시작!"
           >
             <img
-              src="/assets/main_start.png"
+              src="../assets/main_start.png"
               alt="메인 일러스트"
               style={{
                 width: "100%",
