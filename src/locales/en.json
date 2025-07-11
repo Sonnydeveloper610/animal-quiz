@@ -1,0 +1,197 @@
+{
+  "start": "Start",
+  "loading": "Analyzing your result...",
+  "shareResult": "Share my result",
+  "shareApp": "Share this app",
+  "copyMeme": "Copy meme phrase",
+  "hp": "HP",
+  "toResult": "See my result",
+  "questions": [
+    {
+      "question": "How do you feel today?",
+      "options": [
+        "✨ FLEX mode ON",
+        "😶‍🌫️ Homebody vibes",
+        "🔥 Passion ignited",
+        "😴 My bed is calling"
+      ]
+    },
+    {
+      "question": "If a friend cancels plans?",
+      "options": [
+        "No worries, I love staying home",
+        "That’s kinda sus",
+        "Next time, I’ll FLEX",
+        "Send a meme and move on"
+      ]
+    },
+    {
+      "question": "My favorite time is...",
+      "options": [
+        "Browsing memes",
+        "Zoning out alone",
+        "Chatting with friends",
+        "Trying new restaurants"
+      ]
+    },
+    {
+      "question": "Which emoji do you use most?",
+      "options": [
+        "😂",
+        "😎",
+        "😄",
+        "🤔"
+      ]
+    },
+    {
+      "question": "Weekend plans?",
+      "options": [
+        "Netflix marathon",
+        "Go out and FLEX",
+        "Chill at home",
+        "Hunt for hot places"
+      ]
+    },
+    {
+      "question": "When you see a meme?",
+      "options": [
+        "Save & send to friends",
+        "Laugh alone",
+        "Leave a relatable comment",
+        "Post to my story"
+      ]
+    },
+    {
+      "question": "Best compliment for you?",
+      "options": [
+        "You’re so witty!",
+        "You look awesome today",
+        "You’re one of a kind",
+        "You’re my BFF"
+      ]
+    },
+    {
+      "question": "Which SNS do you use most?",
+      "options": [
+        "Instagram",
+        "TikTok",
+        "YouTube",
+        "Twitter"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "animal": "bengal_tiger",
+      "title": "Bengal Tiger",
+      "desc": "A natural leader who controls emotions freely! You energize and lead everyone.",
+      "emoji": "🐯",
+      "nickname": "Real FLEX Tiger",
+      "mz_comment": "🔥 FLEX mode activated, as always!",
+      "meme": "🐯✨🔥",
+      "best_friend": "Pink Dolphin 🐬",
+      "recommend": "Post your FLEX meme on your Insta story today!",
+      "share_phrase": "I got Tiger lol #RealFLEX #AnimalFate",
+      "tmi": "TMI: Even tigers sometimes just wanna chill at home lol",
+      "mz_dialog": "\"Is this for real? I'm totally a tiger!\""
+    },
+    {
+      "animal": "bear",
+      "title": "Moon Bear",
+      "desc": "Warm-hearted and broad-minded! You spread comfort to everyone around you.",
+      "emoji": "🐻",
+      "nickname": "Homebody Bear",
+      "mz_comment": "🍯 Nap time scheduled~",
+      "meme": "🐻💤🍯",
+      "best_friend": "Hedgehog 🦔",
+      "recommend": "Share a nap meme with your friends!",
+      "share_phrase": "I got Bear lol, today is stay-home day #AnimalFate",
+      "tmi": "TMI: Bears hibernate, and so do I. Sleep is life.",
+      "mz_dialog": "\"This is so me lol, home is the best!\""
+    },
+    {
+      "animal": "hedgehog",
+      "title": "Hedgehog",
+      "desc": "Spiky on the outside, but warm on the inside! You open up to those close to you.",
+      "emoji": "🦔",
+      "nickname": "So Spiky",
+      "mz_comment": "🦔 Spikes up for defense today!",
+      "meme": "🦔✨😎",
+      "best_friend": "Moon Bear 🐻",
+      "recommend": "Protect your personal space today!",
+      "share_phrase": "Got Hedgehog lol, spikes up #AnimalFate",
+      "tmi": "TMI: Spiky outside, but actually super soft-hearted.",
+      "mz_dialog": "\"Sometimes you just gotta defend yourself~\""
+    },
+    {
+      "animal": "panther",
+      "title": "Black Panther",
+      "desc": "Instinctive yet rational, chic and full of charm!",
+      "emoji": "🐆",
+      "nickname": "Chic Cat",
+      "mz_comment": "🐆 Stay cool, as always~",
+      "meme": "🐆🖤😏",
+      "best_friend": "Arctic Fox 🦊",
+      "recommend": "Surprise your friend with a cool meme today!",
+      "share_phrase": "Got Panther lol, ultimate chic #AnimalFate",
+      "tmi": "TMI: Looks chic, but actually warm inside.",
+      "mz_dialog": "\"This result is totally my vibe!\""
+    },
+    {
+      "animal": "arctic_fox",
+      "title": "Arctic Fox",
+      "desc": "You seem cold, but you’re actually a sensitive soul!",
+      "emoji": "🦊",
+      "nickname": "Foxy Fox",
+      "mz_comment": "🦊 Foxy vibes ON today!",
+      "meme": "🦊❄️💙",
+      "best_friend": "Black Panther 🐆",
+      "recommend": "Flood the comments with fox emojis!",
+      "share_phrase": "Got Arctic Fox lol, certified sensitive #AnimalFate",
+      "tmi": "TMI: Foxes sometimes get emotional too.",
+      "mz_dialog": "\"Cold on the outside, soft on the inside~\""
+    },
+    {
+      "animal": "pink_dolphin",
+      "title": "Pink Dolphin",
+      "desc": "A romantic swimming in the sea of emotions! You spread positive vibes to friends.",
+      "emoji": "🐬",
+      "nickname": "Pinkie",
+      "mz_comment": "🐬 Emotional power up today!",
+      "meme": "🐬💖🌊",
+      "best_friend": "Bengal Tiger 🐯",
+      "recommend": "DM your friends a wholesome meme today!",
+      "share_phrase": "Got Pink Dolphin lol, feeling all the feels #AnimalFate",
+      "tmi": "TMI: Dolphins actually laugh out loud.",
+      "mz_dialog": "\"I’m a super emotional dolphin!\""
+    },
+    {
+      "animal": "bluebird",
+      "title": "Bluebird",
+      "desc": "A free spirit who brings a swirl of emotions! You always catch the spotlight.",
+      "emoji": "🐦",
+      "nickname": "Bluie",
+      "mz_comment": "🐦 Flying high today~",
+      "meme": "🐦💙✨",
+      "best_friend": "Unicorn 🦄",
+      "recommend": "Post a bluebird meme to your story!",
+      "share_phrase": "Got Bluebird lol, free spirit #AnimalFate",
+      "tmi": "TMI: Bluebirds are actually great singers.",
+      "mz_dialog": "\"This result is totally my jam!\""
+    },
+    {
+      "animal": "unicorn",
+      "title": "Unicorn",
+      "desc": "A limitless imagination and the ultimate healing icon for everyone!",
+      "emoji": "🦄",
+      "nickname": "Healing Unicorn",
+      "mz_comment": "🦄 Imagination overload today!",
+      "meme": "🦄🌈✨",
+      "best_friend": "Bluebird 🐦",
+      "recommend": "Chat with friends using unicorn emojis!",
+      "share_phrase": "Got Unicorn lol, max imagination #AnimalFate",
+      "tmi": "TMI: Unicorns actually heal people (in our hearts).",
+      "mz_dialog": "\"Is this for real? I'm a healing unicorn!\""
+    }
+  ]
+}

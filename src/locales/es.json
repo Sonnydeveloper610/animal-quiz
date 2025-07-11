@@ -1,0 +1,197 @@
+{
+  "start": "Comenzar",
+  "loading": "Analizando tu resultado...",
+  "shareResult": "Compartir mi resultado",
+  "shareApp": "Compartir esta app",
+  "copyMeme": "Copiar frase meme",
+  "hp": "HP",
+  "toResult": "Ver mi resultado",
+  "questions": [
+    {
+      "question": "¿Cómo te sientes hoy?",
+      "options": [
+        "✨ Modo FLEX activado",
+        "😶‍🌫️ Plan de quedarse en casa",
+        "🔥 Pasión encendida",
+        "😴 Mi cama me llama"
+      ]
+    },
+    {
+      "question": "¿Si un amigo cancela planes?",
+      "options": [
+        "No pasa nada, me encanta estar en casa",
+        "Eso es medio raro",
+        "La próxima, yo FLEX",
+        "Mando un meme y ya"
+      ]
+    },
+    {
+      "question": "Mi momento favorito es...",
+      "options": [
+        "Buscar memes",
+        "Desconectarme solo/a",
+        "Charlar con amigos",
+        "Probar restaurantes nuevos"
+      ]
+    },
+    {
+      "question": "¿Qué emoji usas más?",
+      "options": [
+        "😂",
+        "😎",
+        "😄",
+        "🤔"
+      ]
+    },
+    {
+      "question": "¿Planes para el fin de semana?",
+      "options": [
+        "Maratón de Netflix",
+        "Salir y FLEX",
+        "Relajar en casa",
+        "Buscar lugares de moda"
+      ]
+    },
+    {
+      "question": "¿Qué haces al ver un meme?",
+      "options": [
+        "Lo guardo y lo envío a amigos",
+        "Me río solo/a",
+        "Comento algo relatable",
+        "Lo subo a mi historia"
+      ]
+    },
+    {
+      "question": "¿El mejor cumplido para ti?",
+      "options": [
+        "¡Qué ingenioso/a eres!",
+        "Hoy te ves genial",
+        "Eres único/a",
+        "Eres mi mejor amig@"
+      ]
+    },
+    {
+      "question": "¿Qué red social usas más?",
+      "options": [
+        "Instagram",
+        "TikTok",
+        "YouTube",
+        "Twitter"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "animal": "bengal_tiger",
+      "title": "Tigre de Bengala",
+      "desc": "¡Líder nato que controla sus emociones! Energizas y lideras a todos.",
+      "emoji": "🐯",
+      "nickname": "El verdadero FLEX",
+      "mz_comment": "🔥 ¡Modo FLEX activado, como siempre!",
+      "meme": "🐯✨🔥",
+      "best_friend": "Delfín Rosa 🐬",
+      "recommend": "¡Sube tu meme FLEX a tu historia de Insta hoy!",
+      "share_phrase": "Me salió Tigre jajaja #FLEXreal #AnimalDelDestino",
+      "tmi": "TMI: Incluso los tigres a veces solo quieren quedarse en casa jajaja",
+      "mz_dialog": "\"¿Esto es real? ¡Soy 100% tigre!\""
+    },
+    {
+      "animal": "bear",
+      "title": "Oso de la Luna",
+      "desc": "¡Gran corazón y mente abierta! Das calidez a todos a tu alrededor.",
+      "emoji": "🐻",
+      "nickname": "Oso casero",
+      "mz_comment": "🍯 Siesta programada~",
+      "meme": "🐻💤🍯",
+      "best_friend": "Erizo 🦔",
+      "recommend": "¡Comparte un meme de siesta con tus amigos!",
+      "share_phrase": "Me salió Oso jajaja, hoy es día de quedarse en casa #AnimalDelDestino",
+      "tmi": "TMI: Los osos hibernan, yo también. Dormir es vida.",
+      "mz_dialog": "\"Esto soy yo jajaja, ¡casa es lo mejor!\""
+    },
+    {
+      "animal": "hedgehog",
+      "title": "Erizo",
+      "desc": "Parece que tienes pinchos, pero eres muy tierno/a por dentro. Te abres con los cercanos.",
+      "emoji": "🦔",
+      "nickname": "Pinchudo/a",
+      "mz_comment": "🦔 ¡Pinchos listos para defenderme hoy!",
+      "meme": "🦔✨😎",
+      "best_friend": "Oso de la Luna 🐻",
+      "recommend": "¡Hoy defiende tu espacio personal!",
+      "share_phrase": "Me salió Erizo jajaja, pinchos arriba #AnimalDelDestino",
+      "tmi": "TMI: Pinchudo/a por fuera, pero muy suave por dentro.",
+      "mz_dialog": "\"A veces hay que defenderse~\""
+    },
+    {
+      "animal": "panther",
+      "title": "Pantera Negra",
+      "desc": "Instintivo/a pero racional, ¡lleno/a de encanto y estilo!",
+      "emoji": "🐆",
+      "nickname": "Gato chic",
+      "mz_comment": "🐆 Siempre cool~",
+      "meme": "🐆🖤😏",
+      "best_friend": "Zorro Ártico 🦊",
+      "recommend": "¡Sorprende a tu amigo con un meme cool hoy!",
+      "share_phrase": "Me salió Pantera jajaja, ultra chic #AnimalDelDestino",
+      "tmi": "TMI: Parece chic, pero es cálido/a por dentro.",
+      "mz_dialog": "\"¡Este resultado es totalmente mi onda!\""
+    },
+    {
+      "animal": "arctic_fox",
+      "title": "Zorro Ártico",
+      "desc": "Pareces frío/a, ¡pero eres muy sensible por dentro!",
+      "emoji": "🦊",
+      "nickname": "Zorrito/a",
+      "mz_comment": "🦊 ¡Modo zorro ON hoy!",
+      "meme": "🦊❄️💙",
+      "best_friend": "Pantera Negra 🐆",
+      "recommend": "¡Llena los comentarios de emojis de zorro!",
+      "share_phrase": "Me salió Zorro Ártico jajaja, sensible confirmado/a #AnimalDelDestino",
+      "tmi": "TMI: Los zorros también se emocionan a veces.",
+      "mz_dialog": "\"Frío/a por fuera, suave por dentro~\""
+    },
+    {
+      "animal": "pink_dolphin",
+      "title": "Delfín Rosa",
+      "desc": "¡Romántico/a nadando en un mar de emociones! Transmites energía positiva.",
+      "emoji": "🐬",
+      "nickname": "Pinkie",
+      "mz_comment": "🐬 ¡Poder emocional al máximo hoy!",
+      "meme": "🐬💖🌊",
+      "best_friend": "Tigre de Bengala 🐯",
+      "recommend": "¡Manda un meme tierno a tus amigos hoy!",
+      "share_phrase": "Me salió Delfín Rosa jajaja, full emociones #AnimalDelDestino",
+      "tmi": "TMI: Los delfines realmente se ríen en voz alta.",
+      "mz_dialog": "\"¡Soy un delfín superemocional!\""
+    },
+    {
+      "animal": "bluebird",
+      "title": "Pájaro Azul",
+      "desc": "Espíritu libre que trae remolinos de emociones. Siempre llamas la atención.",
+      "emoji": "🐦",
+      "nickname": "Azulito/a",
+      "mz_comment": "🐦 Volando alto hoy~",
+      "meme": "🐦💙✨",
+      "best_friend": "Unicornio 🦄",
+      "recommend": "¡Sube un meme de pájaro azul a tu historia!",
+      "share_phrase": "Me salió Pájaro Azul jajaja, espíritu libre #AnimalDelDestino",
+      "tmi": "TMI: Los pájaros azules cantan increíble.",
+      "mz_dialog": "\"¡Este resultado es totalmente mi rollo!\""
+    },
+    {
+      "animal": "unicorn",
+      "title": "Unicornio",
+      "desc": "Imaginación sin límites y el ícono de sanación para todos.",
+      "emoji": "🦄",
+      "nickname": "Unicornio Healing",
+      "mz_comment": "🦄 ¡Imaginación a tope hoy!",
+      "meme": "🦄🌈✨",
+      "best_friend": "Pájaro Azul 🐦",
+      "recommend": "¡Habla con tus amigos usando emojis de unicornio!",
+      "share_phrase": "Me salió Unicornio jajaja, imaginación al máximo #AnimalDelDestino",
+      "tmi": "TMI: Los unicornios realmente sanan (en el corazón).",
+      "mz_dialog": "\"¿Esto es real? ¡Soy un unicornio sanador!\""
+    }
+  ]
+}
